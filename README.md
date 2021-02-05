@@ -1,0 +1,1 @@
+# aix_image_detect
